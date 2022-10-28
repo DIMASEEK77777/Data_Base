@@ -297,8 +297,8 @@ Google документ (задание 1.4) https://docs.google.com/document/d/
 
 Google документ (задание 1.5) https://docs.google.com/document/d/1rcOIsSlluBqSSEVLk2iyLWMomHZDGcxfbbjQYsswIVI/edit?usp=sharing
 
-Google документ (задание 1.6)
+Google документ (задание 1.6) https://docs.google.com/document/d/1wb_PA6kR5k_yKz4x3e5eS1LDr5FitPtecL4FBvaJx40/edit?usp=sharing
 
-Google документ (задание 1.7)
+Google документ (задание 1.7) https://docs.google.com/document/d/1bH4Rs9jBt6aXMH745b0pIqpllAG-xWpSh_0KVqoq5Ew/edit?usp=sharing
 
-Google документ (задание 1.8) 
+Google документ (задание 1.8) https://docs.google.com/document/d/1ka6GLCIMPR5PPVHSzNM2YuwF5TGtvoSQ8FOJcT3Y09I/edit?usp=sharing
