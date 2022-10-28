@@ -289,7 +289,7 @@ CREATE TABLE staff (
 * Избегайте паттерна EAV (Entity Attribute Value). Вместо него используйте специальные продукты, предназначенные для работы с неструктурированными данными.
 * Не разбивайте данные, логически принадлежащие одной таблице, по разным таблицам на основании условностей, например архивации по времени или географическим атрибутам. Впоследствии для работы с несколькими подобными таблицам придётся часто использовать UNION вместо простых запросов к одной таблице.
 
-Google документ (задание 1.2) https://docs.google.com/document/d/1JXszwVlnPkk3hiiwokpGJT7c7j6H8B9hhjmAE4RqHYE/edit?usp=sharing
+Google документ (задание 1.2) https://docs.google.com/document/d/1JXszwVlnPkk3hiiwokpGJT7c7j6H8B9hhjmAE4RqHYE/edit?usp=sharing ;
 Google документ (задание 1.3) https://docs.google.com/document/d/1gum7tKuyjNPJh9hCeeV9E0e7WqhpA4G9194c5mhrGns/edit?usp=sharing
 Google документ (задание 1.4) https://docs.google.com/document/d/1JQDK7ypYb13w9Yq932l5qlCm9n95BBDvh_iiqEU3WKM/edit?usp=sharing
 Google документ (задание 1.5) https://docs.google.com/document/d/1rcOIsSlluBqSSEVLk2iyLWMomHZDGcxfbbjQYsswIVI/edit?usp=sharing
